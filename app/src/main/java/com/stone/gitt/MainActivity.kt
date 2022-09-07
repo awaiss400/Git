@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("feature commit")
         println("feature second commit")
+        println("feature second commit")
         println("feature third commit")
     }
 }
