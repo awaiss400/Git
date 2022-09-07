@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 println("first commit ever")
+println("second commit ever")
     }
 
 }
